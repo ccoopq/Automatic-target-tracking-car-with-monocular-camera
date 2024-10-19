@@ -20,9 +20,8 @@ Introduced a "searching mode" to re-engage tracking after losing the target.
 (For more details, see the report under this project.)
 
 ## Hardware
-<img src="car" width="300">
+<img src="[car](https://github.com/user-attachments/assets/5dd08c70-167f-402f-9a50-68895051c3d4)" width="300">
 
-![car](https://github.com/user-attachments/assets/5dd08c70-167f-402f-9a50-68895051c3d4)
 
 
 ## Testing
