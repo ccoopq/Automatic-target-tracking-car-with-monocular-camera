@@ -6,15 +6,15 @@ The project aimed to design a real-time automatic target tracking vehicle equipp
 This is a final project of ME5400A.
 
 ## Methodology
-Employed YOLOv5 for object detection due to its high efficiency and accuracy in real-time processing.
+Employed YOLOv5 for object detection method and TrackerKCF for continuous object tracking.
 
-Used TrackerKCF for continuous object tracking, optimizing performance on the NVIDIA Jetson Orin Nano, a resource-limited edge computing device.
+Realtime performance on the NVIDIA Jetson Orin Nano, a resource-limited edge computing device.
 
-Developed a vehicle control algorithm to translate visual data into actionable navigation commands, adjusting speed and steering based on the object’s location and distance.
+Developed a vehicle control algorithm to translate visual data into actionable navigation commands with PWM and adjusted speed and steering based on the object’s location and distance.
 
 ## Experiments
 Tested the system's tracking capabilities in various scenarios, including straight-line and curved paths.
 
-Introduced a "searching mode" to re-engage tracking after losing the target, proving the system’s robustness and effectiveness.
+Introduced a "searching mode" to re-engage tracking after losing the target.
 
 (For more details, see the report under this project.)
