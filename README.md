@@ -20,12 +20,16 @@ Introduced a "searching mode" to re-engage tracking after losing the target.
 (For more details, see the report under this project.)
 
 ## Hardware
-<img src="[car](https://github.com/user-attachments/assets/5dd08c70-167f-402f-9a50-68895051c3d4)" width="300">
-
+<img src="https://github.com/user-attachments/assets/5dd08c70-167f-402f-9a50-68895051c3d4" width="600">
 
 
 ## Testing
-![static](https://github.com/user-attachments/assets/9f29a970-38c5-4c96-bf0c-3855edac18e8)
-![t1](https://github.com/user-attachments/assets/5acb21f2-b79b-4ba4-8ff8-4d0de0e74729)
-![t2](https://github.com/user-attachments/assets/29d69c87-1430-420f-a196-29686d2a69e6)
-![search](https://github.com/user-attachments/assets/da403e56-aabc-48fb-b94c-22533443555a)
+### Static
+<img src="https://github.com/user-attachments/assets/9f29a970-38c5-4c96-bf0c-3855edac18e8" width="500">
+
+### Dynamic
+<img src="https://github.com/user-attachments/assets/5acb21f2-b79b-4ba4-8ff8-4d0de0e74729" width="1000">
+<img src="https://github.com/user-attachments/assets/29d69c87-1430-420f-a196-29686d2a69e6" width="1000">
+
+### Searching Mode
+<img src="https://github.com/user-attachments/assets/da403e56-aabc-48fb-b94c-22533443555a" width="800">
